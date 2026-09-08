@@ -139,7 +139,7 @@ Add exported notebook figures to the `figures/` directory and display them here:
 
 ### Correlation with Churn
 
-![Correlation with Churn](Customer-Churn-Prediction/figures/correlation_with_churn.png)
+![Correlation with Churn](customer-churn-prediction/figures/correlation_with_churn.png)
 
 ### Multicollinearity Check
 
