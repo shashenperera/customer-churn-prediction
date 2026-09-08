@@ -41,7 +41,7 @@ The variables include:
 
 The target variable, **Churned**, represents whether a customer churned or was retained.
 
-> **Dataset note:** See [`data/README.md`](customer-churn-prediction/data/README.md) for information about the dataset and redistribution considerations.
+> **Dataset note:** See [`data/README.md`](Customer-Churn-Prediction/data/README.md) for information about the dataset and redistribution considerations.
 
 ------------------------------------------------------------------------
 
