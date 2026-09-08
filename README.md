@@ -41,7 +41,7 @@ The variables include:
 
 The target variable, **Churned**, represents whether a customer churned or was retained.
 
-> **Dataset note:** See [`data/README.md`](Customer-Churn-Prediction/data/README.md) for information about the dataset and redistribution considerations.
+> **Dataset note:** See [`data/README.md`](Customer%20Churn%20Prediction/data/README.md) for information about the dataset and redistribution considerations.
 
 ------------------------------------------------------------------------
 
@@ -139,15 +139,15 @@ Add exported notebook figures to the `figures/` directory and display them here:
 
 ### Correlation with Churn
 
-![Correlation with Churn](customer-churn-prediction/figures/correlation_with_churn.png)
+![Correlation with Churn](Customer%20Churn%20Prediction/figures/correlation_with_churn.png)
 
 ### Multicollinearity Check
 
-![Correlation Matrix](customer-churn-prediction/figures/multicollinearity.png)
+![Correlation Matrix](Customer%20Churn%20Prediction/figures/multicollinearity.png)
 
 ### Churn Distribution
 
-![Churn Distribution](customer-churn-prediction/figures/churn_distribution.png)
+![Churn Distribution](Customer%20Churn%20Prediction/figures/churn_distribution.png)
 
 ------------------------------------------------------------------------
 
@@ -260,13 +260,13 @@ Confusion matrices were used to evaluate the classification performance of each 
 
 | Keras MLP | Scikit-learn MLP | XGBoost |
 |-----------------------|---------------------------|----------------------|
-| ![](customer-churn-prediction/figures/cm_keras.png) | ![](customer-churn-prediction/figures/cm_mlp_sklearn.png) | ![](customer-churn-prediction/figures/cm_xgb.png) |
+| ![](Customer%20Churn%20Prediction/figures/cm_keras.png) | ![](Customer%20Churn%20Prediction/figures/cm_mlp_sklearn.png) | ![](Customer%20Churn%20Prediction/figures/cm_xgb.png) |
 
 ------------------------------------------------------------------------
 
 ## ROC Curve Comparison
 
-![ROC Curves](customer-churn-prediction/figures/roc_curves.png)
+![ROC Curves](Customer%20Churn%20Prediction/figures/roc_curves.png)
 
 The ROC curves compare the ability of the three models to distinguish between churned and retained customers.
 
