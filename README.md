@@ -2,7 +2,9 @@
 
 A machine learning project comparing **XGBoost**, **Keras/TensorFlow MLP**, and **Scikit-learn MLPClassifier** for binary customer churn prediction.
 
-The project covers data preprocessing, exploratory data analysis (EDA), feature engineering, model training, hyperparameter optimization, and evaluation using classification metrics, confusion matrices, and ROC-AUC.
+The project was developed primarily as an academic and practical learning exercise to understand the end-to-end machine learning workflow, experiment with different model families, and gain practical experience with model training, hyperparameter optimisation, cross-validation, and evaluation.
+
+Therefore, this project covers data preprocessing, exploratory data analysis (EDA), feature engineering, model training, hyperparameter optimisation, and evaluation using classification metrics, confusion matrices, and ROC-AUC.
 
 ------------------------------------------------------------------------
 
